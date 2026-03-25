@@ -3,7 +3,7 @@
 This project is a part of the **Machine Learning with Python** certification from [freeCodeCamp](https://www.freecodecamp.org/). It features an intelligent bot that learns and predicts opponent moves using a **Multi-level Markov Chain** algorithm.
 
 ## 🚀 Live Demo
-You can play against the AI here: [Insert Your Streamlit App Link Here]
+You can play against the AI here: [https://rock-paper-sciapprs.streamlit.app/](https://rock-paper-sciapprs.streamlit.app/)
 
 ## 🧠 How it Works
 Unlike simple random bots, this AI analyzes the history of the game to find patterns in your gameplay.
@@ -33,4 +33,4 @@ The bot successfully passes the freeCodeCamp challenge by maintaining over a **6
 ## 📖 Installation & Usage
 1. Clone the repository:
    ```bash
-   git clone [https://github.com/your-username/fcc-machine-learning-rps.git](https://github.com/your-username/fcc-machine-learning-rps.git)
+   git clone [https://github.com/anwarhossen57/Rock-Paper-Scissors.git](https://github.com/anwarhossen57/Rock-Paper-Scissors.git)
