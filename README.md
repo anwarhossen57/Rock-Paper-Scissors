@@ -34,6 +34,3 @@ The bot successfully passes the freeCodeCamp challenge by maintaining over a **6
 1. Clone the repository:
    ```bash
    git clone [https://github.com/anwarhossen57/Rock-Paper-Scissors.git](https://github.com/anwarhossen57/Rock-Paper-Scissors.git)
-
-   ## What I Learned from this Project
-In this project, I explored the world of **Game Theory** and **Pattern Matching**. I learned how to build a bot that predicts an opponent's next move based on historical data. Working with sequences and developing an algorithm that can counter multiple strategies (like Quincy, Mrugesh, and Kris) gave me deep insights into how to handle dynamic datasets and logic-based decision making.
